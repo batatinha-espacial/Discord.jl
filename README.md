@@ -1,3 +1,7 @@
+# Warning
+
+This is just a fork of the original repository to fix all broken and discontinued API errors.
+
 <div align="center">
     <p> <img src="https://raw.githubusercontent.com/Xh4H/Discord.jl/master/banner.png" alt="Discord.jl"/> </p>
 </div>
