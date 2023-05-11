@@ -29,7 +29,7 @@ Add it from the Git repository with the following command:
 
 ```julia
 # Enter ']' from the REPL to enter Pkg mode.
-pkg> add https://github.com/Xh4H/Discord.jl
+pkg> add https://github.com/batatinha-espacial/Discord.jl
 ```
 The above command will also update all of your dependencies, and store the
 configurations in ~/.julia. 
